@@ -1,4 +1,4 @@
-# Spatio-Temporal Features for Action Recognition
+# Spatio-Temporal Features for Action Recognition :
 
 ## Overview
 
